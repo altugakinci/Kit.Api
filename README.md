@@ -21,7 +21,7 @@ I hope you like it!
 
 ## In this project I used:
 - **.NET CORE 8**
-- **.SQL Server**
+- **SQL Server**
 - **REST API**
 - **Docker**
 - **Microservices**
