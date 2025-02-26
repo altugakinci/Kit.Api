@@ -2,6 +2,7 @@
 ## Kit.Api is an E-BookShop & Social Media Api that you can simulate shopping or borrowing books with sharing your activity with other people!
 
 *Made this project because thought I need a debut project soo.. here it is.*
+
 *I'm not a FE Dev. So I imagined that I'm working in a team as a backend. And this is what I would've done in such position.*
 
 I hope you like it!
