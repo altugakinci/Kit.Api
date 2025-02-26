@@ -21,10 +21,11 @@ I hope you like it!
 
 ## In this project I used:
 - **.NET CORE 8**
+- **.SQL Server**
+- **REST API**
 - **Docker**
 - **Microservices**
 - **Redis**
 - **RabbitMQ**
 - **SOLID**
 - **Clean Architecture**
-
