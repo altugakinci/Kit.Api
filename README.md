@@ -26,6 +26,7 @@ I hope you like it!
 - **Docker**
 - **Microservices**
 - **Redis**
+- **MassTransit**
 - **RabbitMQ**
 - **SOLID**
 - **Clean Architecture**
